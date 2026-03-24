@@ -1,0 +1,4 @@
+networkx==3.6.1
+osmnx==2.1.0
+scikit-learn==1.8.0
+scipy==1.17.1
